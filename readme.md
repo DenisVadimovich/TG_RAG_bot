@@ -107,13 +107,7 @@ def generate_response(prompt, use_system=False):
 ```
 
 ## Скриншоты
-
-Создайте папку screenshots/ и добавьте файлы:
-screenshots/start.png - команда /start
-screenshots/add.png - команда /add
-screenshots/all.png - команда /all
-screenshots/generate.png - команда /generate
-screenshots/bd.png - команда /bd
+<img src="screenshots/generate.png">
 
 ## Ошибки подключения
 Включите VPN для доступа к Telegram API и Hugging Face.
